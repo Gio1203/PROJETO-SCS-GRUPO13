@@ -1,0 +1,5 @@
+°INSTALAÇÃO PFSENSE
+https://docs.google.com/document/d/1JEWGzdueGYOAksEecaBE9NpytUBoCNuWMcIDp5rtmRc/edit
+
+°CONFIGURAÇÃO DO PFSENSE
+https://docs.google.com/document/d/1-WY7ggy13IWBzXa7DCIZW4etySeUxd9PfJT-nj0ed-4/edit
